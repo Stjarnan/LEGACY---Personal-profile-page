@@ -113,6 +113,11 @@ ul.skills {
   margin: 2px;
 }
 
+.summary li {
+  display: block;
+  margin-bottom: 20px;
+}
+
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
